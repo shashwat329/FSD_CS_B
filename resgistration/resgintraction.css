@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* display: block; */
+}
+label{
+    display: block;
+    margin: 10px;
+}
+input{
+    display: block;
+    width: 50%;
+    /* margin: 0px 0px 0px 10px; */
+    margin-left: 25%;
+    height: 25px;
+}
+.centerbox{
+    height: 20rem;
+    border: 2px solid black;
+    text-align: center;
+    width: 75%;
+    background-color: whitesmoke;
+    margin-top: 5%;
+
+    
+}
+body{
+    margin-left: 20%;
+    background-color: yellow;
+}
+button{
+    margin-top: 15px;
+    height: 30px;
+    width: 15rem; 
+    cursor: pointer;
+}
+.sign{
+    background-color: red;
+    border: none;
+    border-radius: 2px;
+
+}
+.login{
+    background-color: rgb(54, 221, 54);
+    border: none;
+    border-radius: 2px;
+
+}
